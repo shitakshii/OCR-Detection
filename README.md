@@ -7,11 +7,11 @@ A simple **Flask-based OCR (Optical Character Recognition) web application** tha
 ---
 
 ## 🚀 Features
-- Upload **images (`.jpg`, `.png`)** or **PDF files**
+- Upload **images (`.jpg`, `.png`)**
 - Automatic preprocessing (grayscale → blur → threshold) for better OCR accuracy
 - Extract text using **Tesseract**
 - Easy-to-use web interface built with Flask
-- Supports both **local images** and **multi-page PDFs** (first page for now)
+- Supports both **local images** 
 
 ---
 
